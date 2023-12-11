@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.cad8627b.css",
-    "main.js": "/static/js/main.f04a20e5.js",
+    "main.css": "/static/css/main.7f5367fa.css",
+    "main.js": "/static/js/main.fca5b599.js",
     "static/js/787.ea2a1c21.chunk.js": "/static/js/787.ea2a1c21.chunk.js",
     "static/media/blackbg.png": "/static/media/blackbg.63c417273d4cfe679256.png",
     "static/media/MainBG1.png": "/static/media/MainBG1.913931677e3e04a17b5d.png",
     "static/media/main.jpg": "/static/media/main.55bd472567b1bbe1c5e2.jpg",
     "static/media/MainBG3.png": "/static/media/MainBG3.70a07be582e16ebbb97b.png",
     "static/media/MainBG2.png": "/static/media/MainBG2.1eeaa9e5aaaa761e29ab.png",
+    "static/media/logopng.png": "/static/media/logopng.50b66cf4ddc0afb8610c.png",
     "static/media/background.jpg": "/static/media/background.d1426ec8fdeab2d8d83a.jpg",
     "static/media/RoyalCasino.png": "/static/media/RoyalCasino.1da90a03537160cd1c07.png",
     "static/media/SkyLounge.png": "/static/media/SkyLounge.37fd7dea2335ba8db081.png",
@@ -45,12 +46,12 @@
     "static/media/circle-minus.svg": "/static/media/circle-minus.85b9c3517bd13f37f5b41e818d2b9db6.svg",
     "static/media/favourite.svg": "/static/media/favourite.de898be7040077d20e3f8feee8c847f6.svg",
     "static/media/statistics.svg": "/static/media/statistics.e11035f05b55de1f10e8dcdf336f4554.svg",
-    "main.cad8627b.css.map": "/static/css/main.cad8627b.css.map",
-    "main.f04a20e5.js.map": "/static/js/main.f04a20e5.js.map",
+    "main.7f5367fa.css.map": "/static/css/main.7f5367fa.css.map",
+    "main.fca5b599.js.map": "/static/js/main.fca5b599.js.map",
     "787.ea2a1c21.chunk.js.map": "/static/js/787.ea2a1c21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cad8627b.css",
-    "static/js/main.f04a20e5.js"
+    "static/css/main.7f5367fa.css",
+    "static/js/main.fca5b599.js"
   ]
 }
