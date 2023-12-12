@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.da20c8fe.css",
-    "main.js": "/static/js/main.68af7c8e.js",
+    "main.css": "/static/css/main.aa5d9fd4.css",
+    "main.js": "/static/js/main.11a02279.js",
     "static/js/787.ea2a1c21.chunk.js": "/static/js/787.ea2a1c21.chunk.js",
     "static/media/blackbg.png": "/static/media/blackbg.63c417273d4cfe679256.png",
     "static/media/MainBG1.png": "/static/media/MainBG1.913931677e3e04a17b5d.png",
@@ -21,13 +21,13 @@
     "static/media/logopng1.png": "/static/media/logopng1.8a11759a0e1ed617f60b.png",
     "static/media/HeaderTitle.png": "/static/media/HeaderTitle.73becb6602080d2ac2df.png",
     "static/media/coin.svg": "/static/media/coin.ab8df53c3a49ab71c5c4700b859ce84b.svg",
-    "static/media/coin1.svg": "/static/media/coin1.530a5dd08e05367de726eccba5866572.svg",
-    "static/media/coin6.svg": "/static/media/coin6.219574da81ca990290b117b31b2304d6.svg",
-    "static/media/coin5.svg": "/static/media/coin5.b9379ac2bad5c1655a369ac1de0665bd.svg",
-    "static/media/coin3.svg": "/static/media/coin3.a0352af58759b084b64034d18b1a9641.svg",
-    "static/media/coin2.svg": "/static/media/coin2.31c42a893ba09b0b0f01796539c28966.svg",
-    "static/media/coin4.svg": "/static/media/coin4.1419f6037b72d74db63921f4fe506bd0.svg",
-    "static/media/coin7.svg": "/static/media/coin7.1466e2a95c6c670b676c73a3131555ee.svg",
+    "static/media/coin1.svg": "/static/media/coin1.b63ea91c754382bd79c35e9b10a994dc.svg",
+    "static/media/coin5.svg": "/static/media/coin5.c5c9521c1e74c4e03a6208988a75e074.svg",
+    "static/media/coin2.svg": "/static/media/coin2.459fd73d7b11c92d3d65b97ddd2b0733.svg",
+    "static/media/coin6.svg": "/static/media/coin6.f0764804d78384ccc57c48a0fdd428da.svg",
+    "static/media/coin7.svg": "/static/media/coin7.1afed7fc4431e07b8a7c31ed621844bc.svg",
+    "static/media/coin3.svg": "/static/media/coin3.44ef67e3d1838261e05bddf5027f797c.svg",
+    "static/media/coin4.svg": "/static/media/coin4.bd8044f67c51e3d29c0006fceafa11f3.svg",
     "static/media/bet-limit.svg": "/static/media/bet-limit.116d0d92ac41d2151407aaa2969bd2ea.svg",
     "static/media/empty-favourite.svg": "/static/media/empty-favourite.7794c5e0886d1654cd93828aa8f8a581.svg",
     "static/media/bet-type.svg": "/static/media/bet-type.c0559d9d8af3400e2adc46f03dbde814.svg",
@@ -46,12 +46,12 @@
     "static/media/circle-minus.svg": "/static/media/circle-minus.85b9c3517bd13f37f5b41e818d2b9db6.svg",
     "static/media/favourite.svg": "/static/media/favourite.de898be7040077d20e3f8feee8c847f6.svg",
     "static/media/statistics.svg": "/static/media/statistics.e11035f05b55de1f10e8dcdf336f4554.svg",
-    "main.da20c8fe.css.map": "/static/css/main.da20c8fe.css.map",
-    "main.68af7c8e.js.map": "/static/js/main.68af7c8e.js.map",
+    "main.aa5d9fd4.css.map": "/static/css/main.aa5d9fd4.css.map",
+    "main.11a02279.js.map": "/static/js/main.11a02279.js.map",
     "787.ea2a1c21.chunk.js.map": "/static/js/787.ea2a1c21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da20c8fe.css",
-    "static/js/main.68af7c8e.js"
+    "static/css/main.aa5d9fd4.css",
+    "static/js/main.11a02279.js"
   ]
 }
