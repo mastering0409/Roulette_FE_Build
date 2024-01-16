@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11">
+  <g id="Group_17741" data-name="Group 17741" transform="translate(-102 -38)">
+    <g id="Rectangle_8058" data-name="Rectangle 8058" transform="translate(108 38)" fill="none" stroke="#ffb400" stroke-width="1">
+      <rect width="5" height="5" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="4" height="4" rx="0.5" fill="none"/>
+    </g>
+    <g id="Group_17748" data-name="Group 17748">
+      <g id="Rectangle_8058-2" data-name="Rectangle 8058" transform="translate(102 38)" fill="none" stroke="#f4f4f4" stroke-width="1">
+        <rect width="5" height="5" rx="1" stroke="none"/>
+        <rect x="0.5" y="0.5" width="4" height="4" rx="0.5" fill="none"/>
+      </g>
+      <g id="Rectangle_8058-3" data-name="Rectangle 8058" transform="translate(102 44)" fill="none" stroke="#f4f4f4" stroke-width="1">
+        <rect width="5" height="5" rx="1" stroke="none"/>
+        <rect x="0.5" y="0.5" width="4" height="4" rx="0.5" fill="none"/>
+      </g>
+      <g id="Rectangle_8058-4" data-name="Rectangle 8058" transform="translate(108 44)" fill="none" stroke="#f4f4f4" stroke-width="1">
+        <rect width="5" height="5" rx="1" stroke="none"/>
+        <rect x="0.5" y="0.5" width="4" height="4" rx="0.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
