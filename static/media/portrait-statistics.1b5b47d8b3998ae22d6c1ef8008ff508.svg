@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 51">
+	<g id="Ellipse_259" data-name="Ellipse 259" fill="rgba(0,0,0,0.21)" stroke="#ad9d61" stroke-width="2">
+		<ellipse cx="26" cy="25.5" rx="26" ry="25.5" stroke="none" />
+		<ellipse cx="26" cy="25.5" rx="25.5" ry="25" fill="none" />
+	</g>
+	<path id="audio-skimming" d="M13.892,3V23.423h2.723V3ZM24.784,9.808V23.423h2.723V9.808ZM3,12.531V23.423H5.723V12.531Zm16.338,2.577v8.315h2.723V15.107ZM8.446,17.977v5.446h2.723V17.977Z" transform="translate(10.119 12.517)" fill="#c2b16f" stroke="#c2b16f" stroke-width="1" />
+</svg>
