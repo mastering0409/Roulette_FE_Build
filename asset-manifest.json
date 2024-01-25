@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.b2233f41.css",
+    "main.css": "/static/css/main.7af502bc.css",
     "main.js": "/static/js/main.822ce7e6.js",
     "static/js/787.ea2a1c21.chunk.js": "/static/js/787.ea2a1c21.chunk.js",
     "static/media/modal_background.png": "/static/media/modal_background.03af81d8fc5b341f189d.png",
@@ -88,12 +88,12 @@
     "static/media/racetrack-switch.svg": "/static/media/racetrack-switch.a4677c842b942e3726e49dde273e90ed.svg",
     "static/media/statistics.svg": "/static/media/statistics.e11035f05b55de1f10e8dcdf336f4554.svg",
     "static/media/double.svg": "/static/media/double.da4386d825e78b66ca3f7732c7701e8c.svg",
-    "main.b2233f41.css.map": "/static/css/main.b2233f41.css.map",
+    "main.7af502bc.css.map": "/static/css/main.7af502bc.css.map",
     "main.822ce7e6.js.map": "/static/js/main.822ce7e6.js.map",
     "787.ea2a1c21.chunk.js.map": "/static/js/787.ea2a1c21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2233f41.css",
+    "static/css/main.7af502bc.css",
     "static/js/main.822ce7e6.js"
   ]
 }
