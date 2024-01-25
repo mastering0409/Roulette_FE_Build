@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ba6672f3.css",
-    "main.js": "/static/js/main.ee18be1b.js",
+    "main.css": "/static/css/main.b2233f41.css",
+    "main.js": "/static/js/main.8bbf5f4c.js",
     "static/js/787.ea2a1c21.chunk.js": "/static/js/787.ea2a1c21.chunk.js",
     "static/media/modal_background.png": "/static/media/modal_background.03af81d8fc5b341f189d.png",
     "static/media/blackbg.png": "/static/media/blackbg.63c417273d4cfe679256.png",
@@ -15,8 +15,8 @@
     "static/media/SkyLounge.png": "/static/media/SkyLounge.0b48c2be49f5518a94ed.png",
     "static/media/NaughtyPink.png": "/static/media/NaughtyPink.0a3ce30462c9ea7dadb7.png",
     "static/media/ClassicRoulette.png": "/static/media/ClassicRoulette.20d7ae7774f952ad39ab.png",
-    "static/media/landscape-background.png": "/static/media/landscape-background.3c5732ca08b1a4316b7a.png",
     "static/media/HottiesRoulette.png": "/static/media/HottiesRoulette.cd6118dcd99d20bfc1f6.png",
+    "static/media/landscape-background.jpg": "/static/media/landscape-background.e643e6b7a6623773f9c9.jpg",
     "static/media/Group16502.png": "/static/media/Group16502.5627623fb8d2b8a9e657.png",
     "static/media/FairyWheel.png": "/static/media/FairyWheel.47086fe83b30a77bee1a.png",
     "static/media/PalmCasino.png": "/static/media/PalmCasino.46206387499af790b55f.png",
@@ -73,29 +73,27 @@
     "static/media/modal-close.svg": "/static/media/modal-close.26142dc9b01c711bc741e2acfa5c6bcb.svg",
     "static/media/circle-plus.svg": "/static/media/circle-plus.2b5ddc45ad9b96933fd9aa208e376d9c.svg",
     "static/media/player-man.svg": "/static/media/player-man.f85bb3d852404b17f6e479f2b80163ae.svg",
-    "static/media/portrait_extend_size.svg": "/static/media/portrait_extend_size.9bea2a7916306c46fc694ec6e54ef58a.svg",
-    "static/media/portrait-reduce_size.svg": "/static/media/portrait-reduce_size.c40be58465ce3b39649eb99333e9c1c0.svg",
     "static/media/videoIcon.svg": "/static/media/videoIcon.48a5a1d45c3b053b34030eebf81bb90d.svg",
+    "static/media/menu-icon.svg": "/static/media/menu-icon.efb49483c8c53ec191d359665d81ec5b.svg",
     "static/media/circle-minus.svg": "/static/media/circle-minus.85b9c3517bd13f37f5b41e818d2b9db6.svg",
     "static/media/favourite-menu.svg": "/static/media/favourite-menu.9aedad2f811b613beec9afd28bccfbb5.svg",
     "static/media/undo.svg": "/static/media/undo.d920fa34d73ecc0a387b0299aac648ee.svg",
-    "static/media/menu-icon.svg": "/static/media/menu-icon.7a65ad2950e420c15cb3833b3c723f0e.svg",
     "static/media/menu-loby.svg": "/static/media/menu-loby.3e2f23cdea7d12a7951b75e669c065b2.svg",
-    "static/media/portrait-favourite.svg": "/static/media/portrait-favourite.86a5ea4eae7ed715e954aa776ba2e5fe.svg",
+    "static/media/portrait-favourite.svg": "/static/media/portrait-favourite.8fae616efb2115328e94d67145f4260c.svg",
     "static/media/history-menu.svg": "/static/media/history-menu.462d6909d426aa422220e93c692a5513.svg",
     "static/media/game-star.svg": "/static/media/game-star.a1d5097d0420b4f36d1213a5280ce969.svg",
+    "static/media/portrait-statistics.svg": "/static/media/portrait-statistics.f2c5a86ef81c5cc1c8cbe6a2049c92f1.svg",
     "static/media/favourite.svg": "/static/media/favourite.de898be7040077d20e3f8feee8c847f6.svg",
-    "static/media/portrait-statistics.svg": "/static/media/portrait-statistics.530fc134027ea565fbf7fc891a4c329a.svg",
     "static/media/statistics-menu.svg": "/static/media/statistics-menu.c4356d5219e38e06fc13e6a424e9676d.svg",
-    "static/media/racetrack-switch.svg": "/static/media/racetrack-switch.68f46f60e3a567776a75fd0cea2a795f.svg",
+    "static/media/racetrack-switch.svg": "/static/media/racetrack-switch.a4677c842b942e3726e49dde273e90ed.svg",
     "static/media/statistics.svg": "/static/media/statistics.e11035f05b55de1f10e8dcdf336f4554.svg",
-    "static/media/double.svg": "/static/media/double.c4e9acfa524ee774329566e17cbb5c36.svg",
-    "main.ba6672f3.css.map": "/static/css/main.ba6672f3.css.map",
-    "main.ee18be1b.js.map": "/static/js/main.ee18be1b.js.map",
+    "static/media/double.svg": "/static/media/double.da4386d825e78b66ca3f7732c7701e8c.svg",
+    "main.b2233f41.css.map": "/static/css/main.b2233f41.css.map",
+    "main.8bbf5f4c.js.map": "/static/js/main.8bbf5f4c.js.map",
     "787.ea2a1c21.chunk.js.map": "/static/js/787.ea2a1c21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba6672f3.css",
-    "static/js/main.ee18be1b.js"
+    "static/css/main.b2233f41.css",
+    "static/js/main.8bbf5f4c.js"
   ]
 }
