@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.8106ba81.css",
+    "main.css": "/static/css/main.bee18830.css",
     "main.js": "/static/js/main.5daf93e1.js",
     "static/js/787.ea2a1c21.chunk.js": "/static/js/787.ea2a1c21.chunk.js",
     "static/media/modal_background.png": "/static/media/modal_background.03af81d8fc5b341f189d.png",
-    "static/media/blackbg.png": "/static/media/blackbg.63c417273d4cfe679256.png",
     "static/media/MainBG1.png": "/static/media/MainBG1.913931677e3e04a17b5d.png",
     "static/media/main.jpg": "/static/media/main.55bd472567b1bbe1c5e2.jpg",
     "static/media/MainBG3.png": "/static/media/MainBG3.70a07be582e16ebbb97b.png",
@@ -24,6 +23,7 @@
     "static/media/logopng.png": "/static/media/logopng.50b66cf4ddc0afb8610c.png",
     "static/media/landscape_board_image.jpg": "/static/media/landscape_board_image.c4a6c4d56eda1eb18114.jpg",
     "static/media/background.jpg": "/static/media/background.d1426ec8fdeab2d8d83a.jpg",
+    "static/media/blackbg.jpg": "/static/media/blackbg.1046573e1c6358a84e5d.jpg",
     "static/media/45x.png": "/static/media/45x.13813cb3d3c8824acfb3.png",
     "static/media/Hotties_Logo_MOBILE.png": "/static/media/Hotties_Logo_MOBILE.7fd282fe0d0d394f775e.png",
     "static/media/logo-1.png": "/static/media/logo-1.7fd282fe0d0d394f775e.png",
@@ -88,12 +88,12 @@
     "static/media/racetrack-switch.svg": "/static/media/racetrack-switch.a4677c842b942e3726e49dde273e90ed.svg",
     "static/media/statistics.svg": "/static/media/statistics.e11035f05b55de1f10e8dcdf336f4554.svg",
     "static/media/double.svg": "/static/media/double.da4386d825e78b66ca3f7732c7701e8c.svg",
-    "main.8106ba81.css.map": "/static/css/main.8106ba81.css.map",
+    "main.bee18830.css.map": "/static/css/main.bee18830.css.map",
     "main.5daf93e1.js.map": "/static/js/main.5daf93e1.js.map",
     "787.ea2a1c21.chunk.js.map": "/static/js/787.ea2a1c21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8106ba81.css",
+    "static/css/main.bee18830.css",
     "static/js/main.5daf93e1.js"
   ]
 }
