@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b9080950.css",
-    "main.js": "/static/js/main.73b53c3b.js",
+    "main.css": "/static/css/main.76192958.css",
+    "main.js": "/static/js/main.253da841.js",
     "static/js/787.ea2a1c21.chunk.js": "/static/js/787.ea2a1c21.chunk.js",
     "static/media/modal_background.png": "/static/media/modal_background.03af81d8fc5b341f189d.png",
     "static/media/blackbg.png": "/static/media/blackbg.63c417273d4cfe679256.png",
@@ -46,7 +46,7 @@
     "static/media/payout-menu.svg": "/static/media/payout-menu.0c2882d422270336d2400b6a40354ff2.svg",
     "static/media/loby-coin-group.svg": "/static/media/loby-coin-group.3073124483d240b3e24f63908836d43a.svg",
     "static/media/coin-group.svg": "/static/media/coin-group.04901c8dcb99b6124ca0a757dffc8b6f.svg",
-    "static/media/empty-favourite.svg": "/static/media/empty-favourite.2bd5a3e8cb7c8ee46246fa41d0ab726f.svg",
+    "static/media/empty-favourite.svg": "/static/media/empty-favourite.0ea1df6c95a4669b417fc7112c280770.svg",
     "static/media/bet-type.svg": "/static/media/bet-type.c0559d9d8af3400e2adc46f03dbde814.svg",
     "static/media/game-play.svg": "/static/media/game-play.a5819382d53afc49fd4a40d461006de8.svg",
     "static/media/favourite-special.svg": "/static/media/favourite-special.f1a53345c6fb2d411474499c858566dd.svg",
@@ -56,7 +56,6 @@
     "static/media/payout.svg": "/static/media/payout.cc9d47114d492b9129ce3b25c32bebd3.svg",
     "static/media/classic-loby.svg": "/static/media/classic-loby.a3f54a00f6ac75c72f99b947466a0e70.svg",
     "static/media/loby-menu.svg": "/static/media/loby-menu.001ad815282c04c482b81384a5d141ab.svg",
-    "static/media/settings.svg": "/static/media/settings.219b6116571b0c4c318c65a6e3cbab0b.svg",
     "static/media/chat-menu.svg": "/static/media/chat-menu.356b33fbd794e3fb25409aa76a2bbbbd.svg",
     "static/media/close-game.svg": "/static/media/close-game.6e92c30e37839f7573e5c05ab3a34aef.svg",
     "static/media/home-menu.svg": "/static/media/home-menu.cd85b78967272b9065068521eceb80c5.svg",
@@ -78,6 +77,7 @@
     "static/media/circle-minus.svg": "/static/media/circle-minus.85b9c3517bd13f37f5b41e818d2b9db6.svg",
     "static/media/favourite-menu.svg": "/static/media/favourite-menu.9aedad2f811b613beec9afd28bccfbb5.svg",
     "static/media/undo.svg": "/static/media/undo.d920fa34d73ecc0a387b0299aac648ee.svg",
+    "static/media/settings.svg": "/static/media/settings.ce915b52181cca3642c1d15cfd0122b7.svg",
     "static/media/menu-loby.svg": "/static/media/menu-loby.3e2f23cdea7d12a7951b75e669c065b2.svg",
     "static/media/portrait-favourite.svg": "/static/media/portrait-favourite.8fae616efb2115328e94d67145f4260c.svg",
     "static/media/history-menu.svg": "/static/media/history-menu.462d6909d426aa422220e93c692a5513.svg",
@@ -88,12 +88,12 @@
     "static/media/racetrack-switch.svg": "/static/media/racetrack-switch.a4677c842b942e3726e49dde273e90ed.svg",
     "static/media/statistics.svg": "/static/media/statistics.e11035f05b55de1f10e8dcdf336f4554.svg",
     "static/media/double.svg": "/static/media/double.da4386d825e78b66ca3f7732c7701e8c.svg",
-    "main.b9080950.css.map": "/static/css/main.b9080950.css.map",
-    "main.73b53c3b.js.map": "/static/js/main.73b53c3b.js.map",
+    "main.76192958.css.map": "/static/css/main.76192958.css.map",
+    "main.253da841.js.map": "/static/js/main.253da841.js.map",
     "787.ea2a1c21.chunk.js.map": "/static/js/787.ea2a1c21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9080950.css",
-    "static/js/main.73b53c3b.js"
+    "static/css/main.76192958.css",
+    "static/js/main.253da841.js"
   ]
 }
