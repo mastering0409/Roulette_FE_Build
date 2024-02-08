@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0de19c3b.css",
-    "main.js": "/static/js/main.59694211.js",
+    "main.css": "/static/css/main.928895a3.css",
+    "main.js": "/static/js/main.491abeed.js",
     "static/js/592.eaf8dff5.chunk.js": "/static/js/592.eaf8dff5.chunk.js",
     "static/media/modal_background.png": "/static/media/modal_background.03af81d8fc5b341f189d.png",
     "static/media/MainBG1.png": "/static/media/MainBG1.913931677e3e04a17b5d.png",
@@ -56,13 +56,13 @@
     "static/media/payout.svg": "/static/media/payout.cc9d47114d492b9129ce3b25c32bebd3.svg",
     "static/media/classic-loby.svg": "/static/media/classic-loby.a3f54a00f6ac75c72f99b947466a0e70.svg",
     "static/media/loby-menu.svg": "/static/media/loby-menu.001ad815282c04c482b81384a5d141ab.svg",
+    "index.html": "/index.html",
     "static/media/chat-menu.svg": "/static/media/chat-menu.356b33fbd794e3fb25409aa76a2bbbbd.svg",
     "static/media/close-game.svg": "/static/media/close-game.6e92c30e37839f7573e5c05ab3a34aef.svg",
     "static/media/home-menu.svg": "/static/media/home-menu.cd85b78967272b9065068521eceb80c5.svg",
     "static/media/home-loby.svg": "/static/media/home-loby.9d3e56741b88c86210276d4472090e28.svg",
     "static/media/chat.svg": "/static/media/chat.8f32ee7dbcbef4c78c77e5adda2ca42a.svg",
     "static/media/how-to-play-menu.svg": "/static/media/how-to-play-menu.fae2522ec18c97c553fa3a6c161a51b4.svg",
-    "index.html": "/index.html",
     "static/media/scroll-loby.svg": "/static/media/scroll-loby.6777af1644bfa4c95e4be3390e9601b7.svg",
     "static/media/soundIcon.svg": "/static/media/soundIcon.0859963be3becf92ae4441dbc5d7e124.svg",
     "static/media/hot-statistics.svg": "/static/media/hot-statistics.60e7ab341d7dd97065a47690c869acf7.svg",
@@ -88,12 +88,12 @@
     "static/media/racetrack-switch.svg": "/static/media/racetrack-switch.a4677c842b942e3726e49dde273e90ed.svg",
     "static/media/statistics.svg": "/static/media/statistics.e11035f05b55de1f10e8dcdf336f4554.svg",
     "static/media/double.svg": "/static/media/double.da4386d825e78b66ca3f7732c7701e8c.svg",
-    "main.0de19c3b.css.map": "/static/css/main.0de19c3b.css.map",
-    "main.59694211.js.map": "/static/js/main.59694211.js.map",
+    "main.928895a3.css.map": "/static/css/main.928895a3.css.map",
+    "main.491abeed.js.map": "/static/js/main.491abeed.js.map",
     "592.eaf8dff5.chunk.js.map": "/static/js/592.eaf8dff5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0de19c3b.css",
-    "static/js/main.59694211.js"
+    "static/css/main.928895a3.css",
+    "static/js/main.491abeed.js"
   ]
 }
