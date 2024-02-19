@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7f48e236.css",
-    "main.js": "/static/js/main.a5c230b1.js",
+    "main.js": "/static/js/main.f155f431.js",
     "static/js/592.eaf8dff5.chunk.js": "/static/js/592.eaf8dff5.chunk.js",
     "static/media/modal_background.png": "/static/media/modal_background.03af81d8fc5b341f189d.png",
     "static/media/MainBG1.png": "/static/media/MainBG1.913931677e3e04a17b5d.png",
@@ -60,7 +60,7 @@
     "index.html": "/index.html",
     "static/media/chat-menu.svg": "/static/media/chat-menu.356b33fbd794e3fb25409aa76a2bbbbd.svg",
     "static/media/close-game.svg": "/static/media/close-game.6e92c30e37839f7573e5c05ab3a34aef.svg",
-    "static/media/home-menu.svg": "/static/media/home-menu.cd85b78967272b9065068521eceb80c5.svg",
+    "static/media/home-menu.svg": "/static/media/home-menu.d5d2c82cc2512b2650b1e1f71aa58499.svg",
     "static/media/home-loby.svg": "/static/media/home-loby.9d3e56741b88c86210276d4472090e28.svg",
     "static/media/chat.svg": "/static/media/chat.8f32ee7dbcbef4c78c77e5adda2ca42a.svg",
     "static/media/how-to-play-menu.svg": "/static/media/how-to-play-menu.fae2522ec18c97c553fa3a6c161a51b4.svg",
@@ -90,11 +90,11 @@
     "static/media/statistics.svg": "/static/media/statistics.e11035f05b55de1f10e8dcdf336f4554.svg",
     "static/media/double.svg": "/static/media/double.da4386d825e78b66ca3f7732c7701e8c.svg",
     "main.7f48e236.css.map": "/static/css/main.7f48e236.css.map",
-    "main.a5c230b1.js.map": "/static/js/main.a5c230b1.js.map",
+    "main.f155f431.js.map": "/static/js/main.f155f431.js.map",
     "592.eaf8dff5.chunk.js.map": "/static/js/592.eaf8dff5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f48e236.css",
-    "static/js/main.a5c230b1.js"
+    "static/js/main.f155f431.js"
   ]
 }

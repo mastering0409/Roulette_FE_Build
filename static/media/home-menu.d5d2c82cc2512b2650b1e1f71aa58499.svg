@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34.281" height="34.282" viewBox="0 0 34.281 34.282">
+  <g id="Group_17780" data-name="Group 17780" transform="translate(-736 -267.077)">
+    <g id="Garage" transform="translate(736 267.077)">
+      <g id="Group_17681" data-name="Group 17681" transform="translate(0 0)">
+        <path id="Path_33974" data-name="Path 33974" d="M34.567,36.281H3.714A1.714,1.714,0,0,1,2,34.567v-5.9a1.714,1.714,0,0,1,3.428,0v4.186H32.853V18.2L19.14,6.008,5.428,18.2v4.619a1.714,1.714,0,0,1-3.428,0V17.427a1.713,1.713,0,0,1,.576-1.282L18,2.432a1.712,1.712,0,0,1,2.276,0L35.705,16.145a1.713,1.713,0,0,1,.576,1.282v17.14A1.714,1.714,0,0,1,34.567,36.281Z" transform="translate(-2 -1.999)" fill="#bcbcbc"/>
+      </g>
+    </g>
+    <text id="C" transform="translate(753 294)" fill="#bcbcbc" font-size="18px" font-family="SegoeUI, Segoe UI" letter-spacing="-0.05em"><tspan x="-5.572" y="0">C</tspan></text>
+  </g>
+</svg>
