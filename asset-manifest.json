@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a145427d.css",
-    "main.js": "/static/js/main.d1f625c6.js",
+    "main.css": "/static/css/main.f7cee3d5.css",
+    "main.js": "/static/js/main.e0580711.js",
     "static/js/592.eaf8dff5.chunk.js": "/static/js/592.eaf8dff5.chunk.js",
     "static/media/modal_background.png": "/static/media/modal_background.03af81d8fc5b341f189d.png",
     "static/media/MainBG1.png": "/static/media/MainBG1.913931677e3e04a17b5d.png",
@@ -38,6 +38,7 @@
     "static/media/coin6.svg": "/static/media/coin6.f0764804d78384ccc57c48a0fdd428da.svg",
     "static/media/coin7.svg": "/static/media/coin7.1afed7fc4431e07b8a7c31ed621844bc.svg",
     "static/media/coin3.svg": "/static/media/coin3.44ef67e3d1838261e05bddf5027f797c.svg",
+    "static/media/HelveticaBlackCondensed.otf": "/static/media/HelveticaBlackCondensed.2e818d8bc0f2225206d8.otf",
     "static/media/Subtraction -1.png": "/static/media/Subtraction -1.82c6489a411dcf8fa3fc.png",
     "static/media/coin4.svg": "/static/media/coin4.bd8044f67c51e3d29c0006fceafa11f3.svg",
     "static/media/LIVE_ok.png": "/static/media/LIVE_ok.dfb76b4d55aa250b55ea.png",
@@ -60,10 +61,10 @@
     "index.html": "/index.html",
     "static/media/chat-menu.svg": "/static/media/chat-menu.356b33fbd794e3fb25409aa76a2bbbbd.svg",
     "static/media/close-game.svg": "/static/media/close-game.6e92c30e37839f7573e5c05ab3a34aef.svg",
-    "static/media/home-menu.svg": "/static/media/home-menu.d5d2c82cc2512b2650b1e1f71aa58499.svg",
     "static/media/home-loby.svg": "/static/media/home-loby.9d3e56741b88c86210276d4472090e28.svg",
     "static/media/chat.svg": "/static/media/chat.8f32ee7dbcbef4c78c77e5adda2ca42a.svg",
     "static/media/how-to-play-menu.svg": "/static/media/how-to-play-menu.fae2522ec18c97c553fa3a6c161a51b4.svg",
+    "static/media/home-menu.svg": "/static/media/home-menu.99eb8317c23c2c29281d4078a8eed6cc.svg",
     "static/media/scroll-loby.svg": "/static/media/scroll-loby.6777af1644bfa4c95e4be3390e9601b7.svg",
     "static/media/soundIcon.svg": "/static/media/soundIcon.0859963be3becf92ae4441dbc5d7e124.svg",
     "static/media/hot-statistics.svg": "/static/media/hot-statistics.60e7ab341d7dd97065a47690c869acf7.svg",
@@ -89,12 +90,12 @@
     "static/media/racetrack-switch.svg": "/static/media/racetrack-switch.a4677c842b942e3726e49dde273e90ed.svg",
     "static/media/statistics.svg": "/static/media/statistics.e11035f05b55de1f10e8dcdf336f4554.svg",
     "static/media/double.svg": "/static/media/double.da4386d825e78b66ca3f7732c7701e8c.svg",
-    "main.a145427d.css.map": "/static/css/main.a145427d.css.map",
-    "main.d1f625c6.js.map": "/static/js/main.d1f625c6.js.map",
+    "main.f7cee3d5.css.map": "/static/css/main.f7cee3d5.css.map",
+    "main.e0580711.js.map": "/static/js/main.e0580711.js.map",
     "592.eaf8dff5.chunk.js.map": "/static/js/592.eaf8dff5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a145427d.css",
-    "static/js/main.d1f625c6.js"
+    "static/css/main.f7cee3d5.css",
+    "static/js/main.e0580711.js"
   ]
 }
