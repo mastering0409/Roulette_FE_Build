@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a0e04208.css",
-    "main.js": "/static/js/main.643af990.js",
+    "main.css": "/static/css/main.98bec140.css",
+    "main.js": "/static/js/main.c2e6b571.js",
     "static/js/592.eaf8dff5.chunk.js": "/static/js/592.eaf8dff5.chunk.js",
     "static/media/modal_background.png": "/static/media/modal_background.03af81d8fc5b341f189d.png",
     "static/media/MainBG1.png": "/static/media/MainBG1.913931677e3e04a17b5d.png",
@@ -9,18 +9,16 @@
     "static/media/MainBG3.png": "/static/media/MainBG3.70a07be582e16ebbb97b.png",
     "static/media/MainBG2.png": "/static/media/MainBG2.1eeaa9e5aaaa761e29ab.png",
     "static/media/RouletteRoyale_Background.jpg": "/static/media/RouletteRoyale_Background.87bf15b5084ec0517682.jpg",
+    "static/media/RouletteRoyale_portrait.jpg": "/static/media/RouletteRoyale_portrait.efd2f1da43eed9e26c05.jpg",
     "static/media/RouletteRoyale_Landscape.jpg": "/static/media/RouletteRoyale_Landscape.4ba6c5b07aee5e29eeb7.jpg",
     "static/media/RouletteRoyale_logo.png": "/static/media/RouletteRoyale_logo.1fd1e939e33461b6fe2d.png",
     "static/media/Goldy_background_Desktop_1500.jpg": "/static/media/Goldy_background_Desktop_1500.bbd7c35da01e253c0777.jpg",
-    "static/media/PortraitLogo.png": "/static/media/PortraitLogo.af1f8114571525b4d200.png",
     "static/media/RoyalCasino.png": "/static/media/RoyalCasino.6612885323443e32cdcb.png",
     "static/media/SkyLounge.png": "/static/media/SkyLounge.0b48c2be49f5518a94ed.png",
     "static/media/landscape_board_image.jpg": "/static/media/landscape_board_image.4a1eb49df53208cc1a98.jpg",
     "static/media/NaughtyPink.png": "/static/media/NaughtyPink.0a3ce30462c9ea7dadb7.png",
     "static/media/ClassicRoulette.png": "/static/media/ClassicRoulette.20d7ae7774f952ad39ab.png",
     "static/media/HottiesRoulette.png": "/static/media/HottiesRoulette.cd6118dcd99d20bfc1f6.png",
-    "static/media/landscape-background.jpg": "/static/media/landscape-background.e643e6b7a6623773f9c9.jpg",
-    "static/media/Group16502.png": "/static/media/Group16502.5627623fb8d2b8a9e657.png",
     "static/media/FairyWheel.png": "/static/media/FairyWheel.47086fe83b30a77bee1a.png",
     "static/media/PalmCasino.png": "/static/media/PalmCasino.46206387499af790b55f.png",
     "static/media/DarkMagic.png": "/static/media/DarkMagic.4c5f7ec287eb3baf6d7d.png",
@@ -39,7 +37,6 @@
     "static/media/coin7.svg": "/static/media/coin7.1afed7fc4431e07b8a7c31ed621844bc.svg",
     "static/media/coin3.svg": "/static/media/coin3.44ef67e3d1838261e05bddf5027f797c.svg",
     "static/media/HelveticaBlackCondensed.otf": "/static/media/HelveticaBlackCondensed.2e818d8bc0f2225206d8.otf",
-    "static/media/Subtraction -1.png": "/static/media/Subtraction -1.82c6489a411dcf8fa3fc.png",
     "static/media/coin4.svg": "/static/media/coin4.bd8044f67c51e3d29c0006fceafa11f3.svg",
     "static/media/LIVE_ok.png": "/static/media/LIVE_ok.dfb76b4d55aa250b55ea.png",
     "static/media/active-game.svg": "/static/media/active-game.20c068dd82882d373e67f5bc523ddfc2.svg",
@@ -90,12 +87,12 @@
     "static/media/racetrack-switch.svg": "/static/media/racetrack-switch.a4677c842b942e3726e49dde273e90ed.svg",
     "static/media/statistics.svg": "/static/media/statistics.e11035f05b55de1f10e8dcdf336f4554.svg",
     "static/media/double.svg": "/static/media/double.da4386d825e78b66ca3f7732c7701e8c.svg",
-    "main.a0e04208.css.map": "/static/css/main.a0e04208.css.map",
-    "main.643af990.js.map": "/static/js/main.643af990.js.map",
+    "main.98bec140.css.map": "/static/css/main.98bec140.css.map",
+    "main.c2e6b571.js.map": "/static/js/main.c2e6b571.js.map",
     "592.eaf8dff5.chunk.js.map": "/static/js/592.eaf8dff5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0e04208.css",
-    "static/js/main.643af990.js"
+    "static/css/main.98bec140.css",
+    "static/js/main.c2e6b571.js"
   ]
 }
