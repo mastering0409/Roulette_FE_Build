@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b3069475.css",
-    "main.js": "/static/js/main.39103a45.js",
+    "main.css": "/static/css/main.1e419de0.css",
+    "main.js": "/static/js/main.722a85a7.js",
     "static/js/592.eaf8dff5.chunk.js": "/static/js/592.eaf8dff5.chunk.js",
     "static/media/modal_background.png": "/static/media/modal_background.03af81d8fc5b341f189d.png",
     "static/media/MainBG1.png": "/static/media/MainBG1.913931677e3e04a17b5d.png",
@@ -18,6 +18,7 @@
     "static/media/landscape_board_image.jpg": "/static/media/landscape_board_image.4a1eb49df53208cc1a98.jpg",
     "static/media/NaughtyPink.png": "/static/media/NaughtyPink.0a3ce30462c9ea7dadb7.png",
     "static/media/ClassicRoulette.png": "/static/media/ClassicRoulette.20d7ae7774f952ad39ab.png",
+    "static/media/BG_BonusGame.jpg": "/static/media/BG_BonusGame.fc77282bf61d59e1ce7a.jpg",
     "static/media/HottiesRoulette.png": "/static/media/HottiesRoulette.cd6118dcd99d20bfc1f6.png",
     "static/media/FairyWheel.png": "/static/media/FairyWheel.47086fe83b30a77bee1a.png",
     "static/media/PalmCasino.png": "/static/media/PalmCasino.46206387499af790b55f.png",
@@ -87,12 +88,12 @@
     "static/media/racetrack-switch.svg": "/static/media/racetrack-switch.a4677c842b942e3726e49dde273e90ed.svg",
     "static/media/statistics.svg": "/static/media/statistics.e11035f05b55de1f10e8dcdf336f4554.svg",
     "static/media/double.svg": "/static/media/double.da4386d825e78b66ca3f7732c7701e8c.svg",
-    "main.b3069475.css.map": "/static/css/main.b3069475.css.map",
-    "main.39103a45.js.map": "/static/js/main.39103a45.js.map",
+    "main.1e419de0.css.map": "/static/css/main.1e419de0.css.map",
+    "main.722a85a7.js.map": "/static/js/main.722a85a7.js.map",
     "592.eaf8dff5.chunk.js.map": "/static/js/592.eaf8dff5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3069475.css",
-    "static/js/main.39103a45.js"
+    "static/css/main.1e419de0.css",
+    "static/js/main.722a85a7.js"
   ]
 }
